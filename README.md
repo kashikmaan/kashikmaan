@@ -22,7 +22,7 @@ I'm a passionate developer with experience in both frontend and backend technolo
 
 ## 💬 Connect with Me
 
-- **LinkedIn:**(https://www.linkedin.com/in/JagdeepChoudhary/)
-- **Twitter:**(https://x.com/i/flow/login?redirect_after_login=%2Fjd_choudhary_)
+- **LinkedIn:**(https://www.linkedin.com/in/Kashik Maan/)
+- **Twitter:**(https://x.com/i/flow/login?redirect_after_login=%2F Kashik Maan)
 
 ---
